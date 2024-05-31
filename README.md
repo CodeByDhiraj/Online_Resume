@@ -1,7 +1,7 @@
 # Online_Resume
 # Simple Resume built in HTML CSS only!
 
-# Live Preview -> 
+# Live Preview -> https://shortxhub.com/Online_Resume/
 
 # Connet With More Amazing Projects 
 
